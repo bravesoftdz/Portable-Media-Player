@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/27 14:54:15.000.974,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 09:09:41.000.560,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 09:12:14.000.013,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/29 13:20:24.000.949,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/29 13:21:55.000.825,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/31 15:54:31.000.715,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/31 15:56:53.000.969,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/31 15:58:35.000.224,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/31 16:45:17.000.507,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/31 16:46:12.000.747,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\Unit1.dfm=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/01/31 16:46:12.000.747,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\Unit1.pas=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/31 16:46:13.000.575,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\Project1.dproj=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/02/01 11:29:33.000.666,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\Unit2.pas</Transaction>
+    <Transaction>2017/02/01 11:29:45.000.016,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\about.dfm=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\Unit2.dfm</Transaction>
+    <Transaction>2017/02/01 11:29:45.000.016,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\about.pas=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\Unit2.pas</Transaction>
+    <Transaction>2017/02/01 11:30:15.000.942,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\about.pas=</Transaction>
+    <Transaction>2017/02/01 11:31:33.000.573,=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\ABOUT.pas</Transaction>
+    <Transaction>2017/02/01 11:33:51.000.943,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\about.dfm=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\ABOUT.dfm</Transaction>
+    <Transaction>2017/02/01 11:33:51.000.943,C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\about.pas=C:\Users\Adriaan\Documents\Embarcadero\Studio\Projects\WMP Clone\ABOUT.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
