@@ -13,6 +13,6 @@ Portable Media Player that requires no installation or any other files!
 
 <h2>Preview</h2> 
 
-![PMP](http://i.imgur.com/phEZldb.png "Portable Media Player Preview")
+![PMP](http://i.imgur.com/e7eBBD5.jpg "Portable Media Player Preview")
 
-![PMP](http://i.imgur.com/q2yzIdT.png "Portable Media Player Preview")
+![PMP](http://i.imgur.com/h230W93.jpg "Portable Media Player Preview")
