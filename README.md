@@ -6,10 +6,10 @@ Portable Media Player that requires no installation or any other files!
 </a>
 
 <h2>Whats new?</h2>
-*Nothing
+* Nothing
 
 <h2>Whats Broken?</h2>
-* Currently Nothing
+* Not autoplaying the next video on the list
 
 <h2>Preview</h2> 
 
