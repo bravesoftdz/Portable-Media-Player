@@ -1,7 +1,7 @@
 <h1>Protable Media Player</h1>
 Portable Media Player that requires no installation or any other files!
 
-<a href="http://www.mediafire.com/file/07eu420sy36v3yu/Portable_Media_Player.exe">
+<a href="https://github.com/Inforcer25/Portable-Media-Player/raw/master/Portable%20Media%20Player%20v1.1.0.exe">
   <img src="http://i.imgur.com/qoGP19r.png" alt="Download">
 </a>
 
